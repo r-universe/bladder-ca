@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "nhppp"]
 	path = nhppp
-	url = https://github.com/bladder-ca/nhppp-fast
+	url = https://github.com/bladder-ca/nhppp
